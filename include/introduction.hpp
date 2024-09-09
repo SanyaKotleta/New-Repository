@@ -15,23 +15,23 @@ class introduction
 public:
     std::string_view name() const
     {
-        return ...
+        return Alexandra
     }
 
     std::string_view surename() const
     {
-        return ...
+        return Shchekina
     }
 
     std::string fullname() const
     {
-        return ...
+        return Alexandra Shchekina
     }
 
 private:
 };
 //}
-//лол лол ахаха
+//
 
 
 #endif // __INTRODUCTION_HPP__
